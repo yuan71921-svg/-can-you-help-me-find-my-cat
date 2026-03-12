@@ -181,7 +181,7 @@
     "_priority": 0,
     "_fov": 45,
     "_fovAxis": 0,
-    "_orthoHeight": 360,
+    "_orthoHeight": 498.9830508474576,
     "_near": 0,
     "_far": 1000,
     "_color": {
@@ -498,7 +498,7 @@
     "_string": "00:00:00",
     "_horizontalAlign": 0,
     "_verticalAlign": 1,
-    "_actualFontSize": 47.22222222222222,
+    "_actualFontSize": 40,
     "_fontSize": 40,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
